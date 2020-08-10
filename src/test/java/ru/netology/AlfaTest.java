@@ -1,3 +1,5 @@
+package ru.netology;
+
 import static com.codeborne.selenide.Selectors.byText;
 
 import com.codeborne.selenide.SelenideElement;
